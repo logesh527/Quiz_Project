@@ -1,0 +1,37 @@
+body {
+    background-color: rgb(9, 187, 210);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.question-box{
+    background-color: aliceblue;
+}
+h1,h2{
+    text-align: center;
+}
+.content-box{
+    margin-top: 10px;
+    background-color: beige;
+    height: 50%;
+    width:auto;
+    text-align: center;
+}
+label{
+    display: block;
+    padding: 5px;
+}
+button{
+    padding: 10px;
+    margin: 15px;
+    background-color: rgb(185, 167, 144);
+    color: black;
+    font-weight: 400;
+}
+button:hover{
+    cursor:pointer;
+    background-color: rgb(125, 74, 7);
+    color: aliceblue;
+}
+#Board{
+    font-weight: 200;
+    text-align: left;
+}
